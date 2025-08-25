@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bd2437a-f045-46ae-9d89-12bb70f950da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Components/FileUploader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/upload.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/info.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/formatSize.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/upload.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +98,8 @@
       <workItem from="1756020942996" duration="4724000" />
       <workItem from="1756030478141" duration="2614000" />
       <workItem from="1756034043521" duration="9052000" />
-      <workItem from="1756064011093" duration="292000" />
+      <workItem from="1756064011093" duration="2697000" />
+      <workItem from="1756121614234" duration="661000" />
     </task>
     <servers />
   </component>
